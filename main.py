@@ -1,4 +1,3 @@
-
 '''umożliwia tworzenie pseudo losowych liczb'''
 
 import random
@@ -39,5 +38,3 @@ print(f'{ilosc_losowan}')
 
 CZAS = (ilosc_losowan[0] / 3)/52
 print(f'ilosc w tym trafionych piątek {ilosc_losowan[1]}')
-
-print('test tomasza')
